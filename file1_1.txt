@@ -1,1 +1,2 @@
 Esto es un segundo intento de tabajar git con Visual Studio Code
+y esto lo agrego en la ramaNueva
